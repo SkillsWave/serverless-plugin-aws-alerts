@@ -1,3 +1,5 @@
+***This repository has been archived***
+
 # Serverless AWS Alerts Plugin
   [![NPM version][npm-image]][npm-url]
   [![Build Status][travis-image]][travis-url]
